@@ -6,26 +6,26 @@ about: Something doesn't work correctly in a devkitPro supplied tool/library.
 
 ## Bug Report
 
-[ If any section does not apply, replace its contents with "N/A". ]
-[ Lines between [ ] (square brackets) should be removed before posting. ]
+{ If any section does not apply, replace its contents with "N/A". }
+{ Lines between { } (braces) should be removed before posting. }
 
-[ * ]
-[ Note: If the bug or crash you encountered is related to; ]
-[ - software used to make "backups", ]
-[ - software explicitly distributed for piracy, etc ]
-[ then contributors will not provide support for your issue and your issue will be closed. ]
-[ Note: If you include links to websites who promote and encourage intellectual property infringment then those links and references to them will be removed. People who persistently include such links and/or argue about their removal will be blocked; ]
+{ * }
+{ Note: If the bug or crash you encountered is related to; }
+{ - software used to make "backups", }
+{ - software explicitly distributed for piracy, etc }
+{ then contributors will not provide support for your issue and your issue will be closed. }
+{ Note: If you include links to websites who promote and encourage intellectual property infringment then those links and references to them will be removed. People who persistently include such links and/or argue about their removal will be blocked; }
 
 ### What's the issue you encountered?
 
-[ Describe the issue in detail and what you were doing beforehand. ]
-[ Did you make any changes related to devkitPro tooling? ]
-[ If so, make sure to include details relating to what exactly you changed. ]
+{ Describe the issue in detail and what you were doing beforehand. }
+{ Did you make any changes related to devkitPro tooling? }
+{ If so, make sure to include details relating to what exactly you changed. }
 
 ### How can the issue be reproduced?
 
-[ * ]
-[ Include a detailed step by step process for recreating your issue. ]
+{ * }
+{ Include a detailed step by step process for recreating your issue. }
 
 ### Environment?
 
@@ -38,4 +38,4 @@ about: Something doesn't work correctly in a devkitPro supplied tool/library.
 ### Additional context?
 
 - Additional info about your environment:
-- [ Any other information relevant to your issue. ]
+- { Any other information relevant to your issue. }
